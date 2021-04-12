@@ -1,7 +1,7 @@
 # Contributors
 
 -[Aman Verma](https://github.com/amnvrma)
-
+- [Lorenzo Evans](https://github.com/SpyroL7)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
